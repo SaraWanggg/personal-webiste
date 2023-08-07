@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "sass": "^1.64.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.1",
+    "font-awesome": "^4.7.0"
+  }
+}
